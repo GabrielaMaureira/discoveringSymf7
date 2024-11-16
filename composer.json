@@ -24,6 +24,7 @@
         "symfony/serializer": "7.1.*",
         "symfony/stimulus-bundle": "^2.21",
         "symfony/twig-bundle": "7.1.*",
+        "symfony/ux-turbo": "^2.21",
         "symfony/var-dumper": "7.1.*",
         "symfony/yaml": "7.1.*",
         "symfonycasts/tailwind-bundle": "^0.6.0",
@@ -82,6 +83,7 @@
     },
     "require-dev": {
         "symfony/debug-bundle": "7.1.*",
+        "symfony/maker-bundle": "^1.61",
         "symfony/stopwatch": "7.1.*",
         "symfony/web-profiler-bundle": "7.1.*"
     }
